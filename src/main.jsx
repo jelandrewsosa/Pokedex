@@ -21,7 +21,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <PokemonContextComponent>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<App />} />
+          <Route path="/Pokedex" element={<App />} />
           <Route path="/home" element={<Home />}/>
           <Route path="/navbar" element={<NavBar />}/>
           <Route path="/*" element={<NotFoundView />} />
