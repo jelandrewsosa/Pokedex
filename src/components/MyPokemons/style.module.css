@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.button {
+  position: relative;
+  top: 30px;
+  left: -160px;
+  border-radius: 25px;
+  height: 25px;
+  width: 70px;
+  background-color: rgb(30, 30, 44);
+  z-index: 100;
+}

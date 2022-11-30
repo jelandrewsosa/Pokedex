@@ -1,0 +1,100 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  justify-content: center;
+}
+
+.header {
+  font-family: Solid;
+  font-size: 3rem;
+  text-transform: capitalize;
+  margin-bottom: 80px;
+  text-shadow: 2px 2px #000000;
+}
+
+.goBackButton {
+  padding: 0.5rem 1rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.normal {
+  color: rgb(156, 136, 136);
+}
+
+.fighting {
+  color: rgb(124, 65, 65);
+}
+
+.flying {
+  color: rgb(70, 70, 177);
+}
+
+.poison {
+  color: rgb(104, 33, 104);
+}
+
+.ground {
+  color: rgb(128, 114, 95);
+}
+
+.rock {
+  color: rgb(110, 82, 42);
+}
+
+.bug {
+  color: rgb(115, 148, 63);
+}
+
+.ghost {
+  color: rgb(75, 22, 75);
+}
+
+.steel {
+  color: rgb(102, 100, 100);
+}
+
+.fire {
+  color: rgb(133, 40, 40);
+}
+
+.water {
+  color: rgb(21, 21, 133);
+}
+
+.grass {
+  color: rgb(17, 100, 17);
+}
+
+.electric {
+  color: rgb(153, 153, 29);
+}
+
+.psychic {
+  color: rgb(156, 69, 156);
+}
+
+.ice {
+  color: rgb(43, 120, 139);
+}
+
+.dragon {
+  color: rgb(66, 33, 66);
+}
+
+.dark {
+  color: rgb(44, 12, 44);
+}
+
+.fairy {
+  color: rgb(180, 34, 180);
+}
+
+.unknown {
+  color: rgb(70, 62, 27);
+}
+
+.shadow {
+  color: rgb(15, 14, 15);
+}

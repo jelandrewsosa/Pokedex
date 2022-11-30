@@ -1,0 +1,125 @@
+.container {
+  padding: 1rem;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid rgb(30, 30, 34);
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  margin: 5px;
+  background:#162a3d;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 900;
+  text-transform: capitalize;
+}
+
+a {
+  align-items: center;
+}
+
+a img {
+  width: 100%
+}
+
+.name {
+  text-align: center;
+  font-weight: bold;
+  padding: 0.5rem 0;
+  text-transform: capitalize;
+  font-size: 1.5rem;
+}
+
+.name:hover {
+  color: rgb(240, 241, 245);
+}
+
+.typesContainer {
+  width: 50%;
+  border-radius: 3px;
+  margin: 3px;
+  padding: 5px;
+}
+
+.typesContainer:hover {
+  color: whitesmoke;
+}
+
+.normal {
+  background-color: rgb(156, 136, 136);
+}
+
+.fighting {
+  background-color: rgb(124, 65, 65);
+}
+
+.flying {
+  background-color: rgb(70, 70, 177);
+}
+
+.poison {
+  background-color: rgb(104, 33, 104);
+}
+
+.ground {
+  background-color: rgb(128, 114, 95);
+}
+
+.rock {
+  background-color: rgb(110, 82, 42);
+}
+
+.bug {
+  background-color: rgb(115, 148, 63);
+}
+
+.ghost {
+  background-color: rgb(75, 22, 75);
+}
+
+.steel {
+  background-color: rgb(102, 100, 100);
+}
+
+.fire {
+  background-color: rgb(133, 40, 40);
+}
+
+.water {
+  background-color: rgb(21, 21, 133);
+}
+
+.grass {
+  background-color: rgb(17, 100, 17);
+}
+
+.electric {
+  background-color: rgb(153, 153, 29);
+}
+
+.psychic {
+  background-color: rgb(156, 69, 156);
+}
+
+.ice {
+  background-color: rgb(43, 120, 139);
+}
+
+.dragon {
+  background-color: rgb(66, 33, 66);
+}
+
+.dark {
+  background-color: rgb(44, 12, 44);
+}
+
+.fairy {
+  background-color: rgb(180, 34, 180);
+}
+
+.unknown {
+  background-color: rgb(70, 62, 27);
+}
+
+.shadow {
+  background-color: rgb(15, 14, 15);
+}
